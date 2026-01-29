@@ -29,7 +29,7 @@ export default function App() {
       >
         <h1 className="text-5xl font-extrabold tracking-tight">Parichuk.com</h1>
         <p className="mt-4 text-xl text-white/90 dark:text-slate-300">
-          Личный сайт. Скоро здесь будет больше.
+          Скоро здесь будет больше. или Нет ;)
         </p>
         <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
